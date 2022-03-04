@@ -16,6 +16,9 @@
 
 >    - ***Chargez*** le code dans votre arduino
 
+>    - ***Approchez*** une une carte, téléphone, etc
+>      quand elle passe dans le champs de communication vous verrez les informations transmises
+
 ## usage
 
 Par défaut le shield est configuré en **I2C**, et utilise donc moins de broches :
