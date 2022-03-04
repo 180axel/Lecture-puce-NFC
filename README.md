@@ -16,8 +16,8 @@
 
 >    - ***Chargez*** le code dans votre arduino
 
->    - ***Approchez*** une une carte, téléphone, etc
->      quand elle passe dans le champs de communication vous verrez les informations transmises
+>    - ***Approchez*** une une carte, téléphone, etc.
+>      Quand elle passe dans le champs de communication vous verrez les informations transmises.
 
 ## usage
 
