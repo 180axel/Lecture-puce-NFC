@@ -1,13 +1,11 @@
 # Applications NFC (Near Field Communication - Communication proche sans contact).
-    - Ce shield AdaFruit utilise le contrôleur PN532 et peut presque tout faire, lire comme écrire; des cartes ou des tags, communiquer avec des téléphones mais aussi agir comme un tag NFC.
+>    - Ce shield AdaFruit utilise le contrôleur PN532 et peut presque tout faire, lire comme écrire; des cartes ou des tags, communiquer avec des téléphones mais aussi agir comme un tag NFC.
 
-    - Parce qu'il est capable de lire et d'écrire des TAGs, vous pouvez toujours
-utiliser ce shield pour des projets orientés RFID.
+>    - Parce qu'il est capable de lire et d'écrire des TAGs, vous pouvez toujours utiliser ce shield pour des projets orientés RFID.
 
-    - Il est également capable de traiter des tout autres types de tag NFC/RFID du Type 1 au 4.
+>    - Il est également capable de traiter des tout autres types de tag NFC/RFID du Type 1 au 4.
 
-    - Le shield Adafruit a été conçu pour fonctionner sur une
-distance de 10 cm maximum en utilisant une technologie 13.56MHz.
+>    - Le shield Adafruit a été conçu pour fonctionner sur une distance de 10 cm maximum en utilisant une technologie 13.56MHz.
 
 ## Utilisation
 
