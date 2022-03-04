@@ -3,7 +3,7 @@
 #include <SoftwareSerial.h>
 
 #define IRQ (2) // DEFINITION DE L'INTERRUPTION
-#define RESET (3)    // NON CONNECTE PAR DEFAUT SUE LE SHIELD NFC
+#define RESET (3) // NON CONNECTE PAR DEFAUT SUR LE SHIELD NFC
 
 Adafruit_NFCShield_I2C nfc(IRQ, RESET);
 
